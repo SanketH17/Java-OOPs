@@ -10,15 +10,15 @@ In other words, it is used for constructor chaining.
 */
 
 
-class A {
+class A3 {
 
-    A() {
+    A3() {
         
         System.out.println("Hello a");
     }
 
     // one more parameterized constructor 
-    A(int x) {
+    A3(int x) {
         this();
         System.out.println("hello A " + x);
     }
@@ -32,7 +32,7 @@ class A {
 
 public class P03_TestThis {
     public static void main(String[] args) {
-        A a=new A(10); 
+        A3 a=new A3(10); 
         
     }
 }
