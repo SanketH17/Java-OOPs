@@ -18,7 +18,7 @@ class Student3 {
 }
 
 
-public class TestStudent {
+public class P02_TestStudent {
     public static void main(String[] args) {
         Student3 s1 = new Student3();
         Student3 s2 = new Student3();
@@ -26,3 +26,8 @@ public class TestStudent {
         s2.display();
     }
 }
+
+
+
+
+
