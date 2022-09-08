@@ -25,8 +25,9 @@ class Honda extends Bike {
 //Creating a Test class which calls abstract and non-abstract methods 
 public class P03_TestAbstraction {
     public static void main(String[] args) {
-        Honda h = new Honda();
-        h.run();
+        Bike b = new Honda();
+        b.run();
         b.changeGear();
+
     }
 }
