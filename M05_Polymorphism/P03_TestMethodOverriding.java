@@ -1,4 +1,4 @@
-package OOPs.M05_Polymorphism;
+package M05_Polymorphism;
 
 /*
 Let's understand the problem that we may face in the program if we don't use method overriding.

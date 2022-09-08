@@ -1,4 +1,4 @@
-package OOPs.M02_This_Keyword;
+package M02_This_Keyword;
 
 /*
 2) this: to invoke current class method

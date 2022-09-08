@@ -1,4 +1,4 @@
-package OOPs.M05_Polymorphism;
+package M05_Polymorphism;
 
 
 //creating a parent class

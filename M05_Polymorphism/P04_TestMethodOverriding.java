@@ -1,4 +1,4 @@
-package OOPs.M05_Polymorphism;
+package M05_Polymorphism;
 
 /*
 In this example, we have defined the run method in the subclass as defined in the parent class but it has some specific implementation.

@@ -1,4 +1,4 @@
-package OOPs.M03_Inheritance;
+package M03_Inheritance;
 
 class Employee {
     float salary = 40000f;

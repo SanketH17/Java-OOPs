@@ -1,4 +1,4 @@
-package OOPs.M02_This_Keyword;
+package M02_This_Keyword;
 
 /*
 1) this: to refer current class instance variable

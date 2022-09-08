@@ -1,4 +1,4 @@
-package OOPs.M05_Polymorphism;
+package M05_Polymorphism;
 
 /*
 1) Method Overloading: changing no. of arguments

@@ -1,4 +1,4 @@
-package OOPs.M03_Inheritance;
+package M03_Inheritance;
 
 /*
 When two or more classes inherits a single class, it is known as hierarchical inheritance.

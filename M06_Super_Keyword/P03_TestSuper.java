@@ -1,4 +1,4 @@
-package OOPs.M06_Super_Keyword;
+package M06_Super_Keyword;
 
 class Player {
 

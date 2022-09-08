@@ -1,4 +1,4 @@
-package OOPs.M02_This_Keyword;
+package M02_This_Keyword;
 
 /*
 Real usage of this() constructor call

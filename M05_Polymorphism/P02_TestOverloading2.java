@@ -1,4 +1,4 @@
-package OOPs.M05_Polymorphism;
+package M05_Polymorphism;
 
 /*
 2) Method Overloading: changing data type of arguments
