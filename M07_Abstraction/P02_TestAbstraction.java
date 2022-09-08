@@ -18,7 +18,10 @@ class PNB extends Bank {
     }
 }
 
-
+/* 
+17. Can we create an instance of an abstract class? 
+No, instance of an abstract class can't be created.
+*/
 
 public class P02_TestAbstraction {
     public static void main(String[] args) {
