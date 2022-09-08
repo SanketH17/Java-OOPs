@@ -1,4 +1,4 @@
-package OOPs.Constructors;
+
 
 /*
 Q) What is the purpose of a default constructor?

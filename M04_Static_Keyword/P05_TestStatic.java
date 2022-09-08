@@ -1,4 +1,4 @@
-package OOPs.M04_Static_Keyword;
+
 
 class Calculate {
     static int cube(int x) {

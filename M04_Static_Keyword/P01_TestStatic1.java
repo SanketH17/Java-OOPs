@@ -1,4 +1,4 @@
-package OOPs.M04_Static_Keyword;
+
 
 /*
 If you declare any variable as static, it is known as a static variable.

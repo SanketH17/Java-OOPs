@@ -1,4 +1,4 @@
-package OOPs.Constructors;
+
 
 /* 
 Example of default constructor
@@ -13,6 +13,6 @@ class Bike1 {
 }
 public class P01_TestBike {
     public static void main(String[] args) {
-        Bike1 b = new Bike1();
+        //Bike1 b = new Bike1();
     }
 }

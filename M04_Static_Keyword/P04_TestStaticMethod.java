@@ -1,4 +1,6 @@
-package OOPs.M04_Static_Keyword;
+
+
+
 
 /*
 Java static method
