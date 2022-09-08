@@ -16,6 +16,6 @@ class A4 {
 
 public class P04_TestThis {
     public static void main(String[] args) {
-        A4 a = new A4();
+       // A4 a = new A4();
     }
 }

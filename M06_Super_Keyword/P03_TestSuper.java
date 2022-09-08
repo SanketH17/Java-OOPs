@@ -20,6 +20,6 @@ class Virat extends Player {
 
 public class P03_TestSuper {
     public static void main(String[] args) {
-        Virat v = new Virat();
+        //Virat v = new Virat();
     }
 }
